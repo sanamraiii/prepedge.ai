@@ -1,0 +1,174 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exported Figma Design</title>
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="home-page-1">
+<div class="group-42-2">
+<div class="rectangle-49-3"></div>
+</div>
+<p class="text-4"><span class="text-black">WELCOME TO</span><span class="text-white"> </span>PREPEDGE</p>
+<div class="rectangle-35-5"></div>
+<div class="icons8-search-1-6">
+<img src="images/vector-7.svg" class="vector-7" alt="vector" />
+</div>
+<p class="text-8"><span class="text-rgb-87-84-84">search for companies</span></p>
+<div class="node-9">
+<img src="images/vector-10.svg" class="vector-10" alt="vector" />
+<img src="images/vector-11.svg" class="vector-11" alt="vector" />
+<img src="images/vector-12.svg" class="vector-12" alt="vector" />
+<img src="images/vector-13.svg" class="vector-13" alt="vector" />
+<img src="images/vector-14.svg" class="vector-14" alt="vector" />
+<img src="images/vector-15.svg" class="vector-15" alt="vector" />
+<img src="images/vector-16.svg" class="vector-16" alt="vector" />
+<img src="images/vector-17.svg" class="vector-17" alt="vector" />
+<img src="images/vector-18.svg" class="vector-18" alt="vector" />
+<img src="images/vector-19.svg" class="vector-19" alt="vector" />
+<img src="images/vector-20.svg" class="vector-20" alt="vector" />
+<img src="images/vector-21.svg" class="vector-21" alt="vector" />
+<img src="images/vector-22.svg" class="vector-22" alt="vector" />
+<img src="images/vector-23.svg" class="vector-23" alt="vector" />
+<img src="images/vector-24.svg" class="vector-24" alt="vector" />
+<img src="images/vector-25.svg" class="vector-25" alt="vector" />
+<img src="images/vector-26.svg" class="vector-26" alt="vector" />
+<img src="images/vector-27.svg" class="vector-27" alt="vector" />
+<img src="images/vector-28.svg" class="vector-28" alt="vector" />
+<img src="images/vector-29.svg" class="vector-29" alt="vector" />
+<img src="images/vector-30.svg" class="vector-30" alt="vector" />
+<img src="images/vector-31.svg" class="vector-31" alt="vector" />
+<img src="images/vector-32.svg" class="vector-32" alt="vector" />
+<img src="images/vector-33.svg" class="vector-33" alt="vector" />
+</div>
+<p class="text-34"><span class="text-black">Our Top 5 Recommendations:</span></p>
+<div class="group-15-35">
+<div class="group-16-36">
+<img src="images/ellipse-1-37.svg" class="ellipse-1-37" alt="ellipse-1" />
+<img src="images/image-4-38.png" class="image-4-38" alt="image-4" />
+</div>
+<div class="group-17-39">
+<img src="images/ellipse-2-40.svg" class="ellipse-2-40" alt="ellipse-2" />
+<img src="images/node-41.png" class="node-41" alt="01cada77a0a7d326d85b7969fe26a728-1" />
+</div>
+<div class="group-18-42">
+<img src="images/ellipse-3-43.svg" class="ellipse-3-43" alt="ellipse-3" />
+<img src="images/node-44.png" class="node-44" alt="apple-logo-black-isolated-on-transparent-background-free-vector-1" />
+</div>
+<div class="group-19-45">
+<img src="images/ellipse-4-46.svg" class="ellipse-4-46" alt="ellipse-4" />
+<img src="images/node-47.png" class="node-47" alt="google-logo-icon-illustration-free-vector-1" />
+</div>
+<div class="group-20-48">
+<img src="images/ellipse-5-49.svg" class="ellipse-5-49" alt="ellipse-5" />
+<img src="images/node-50.png" class="node-50" alt="tcs-icon-logo-png-1-1" />
+</div>
+</div>
+<div class="rectangle-51-51"></div>
+<div class="rectangle-42-52"></div>
+<div class="rectangle-44-53"></div>
+<img src="images/chatbox-1-54.png" class="chatbox-1-54" alt="chatbox-1" />
+<p class="text-55"><span class="text-black">Explore </span></p>
+<img src="images/ellipse-6-56.svg" class="ellipse-6-56" alt="ellipse-6" />
+<div class="group-27-57">
+<img src="images/user-1-1-58.png" class="user-1-1-58" alt="user-1-1" />
+</div>
+<div class="icons8-exit-2-59">
+<img src="images/vector-60.svg" class="vector-60" alt="vector" />
+</div>
+<div class="microsoft-61">
+<div class="rectangle-36-62"></div>
+<div class="group-16-63">
+<img src="images/ellipse-1-64.svg" class="ellipse-1-64" alt="ellipse-1" />
+<img src="images/image-4-65.png" class="image-4-65" alt="image-4" />
+</div>
+<p class="text-66"><span class="text-white">Microsoft</span></p>
+<div class="group-36-67">
+<div class="rectangle-79-68"></div>
+<p class="text-69"><span class="text-white">hard</span></p>
+</div>
+<p class="text-70"><span class="text-white">45 interview experiences </span></p>
+<p class="text-71"><span class="text-white">Popular this week
+</span></p>
+</div>
+<div class="amazon-72">
+<div class="rectangle-47-73"></div>
+<div class="group-17-74">
+<img src="images/ellipse-2-75.svg" class="ellipse-2-75" alt="ellipse-2" />
+<img src="images/node-76.png" class="node-76" alt="01cada77a0a7d326d85b7969fe26a728-1" />
+</div>
+<p class="text-77"><span class="text-white">AMAZON</span></p>
+<div class="group-38-78">
+<div class="rectangle-79-79"></div>
+<p class="text-80"><span class="text-white">hard</span></p>
+</div>
+<p class="text-81"><span class="text-white">69 interview experiences </span></p>
+<p class="text-82"><span class="text-white">Popular this week
+</span></p>
+</div>
+<div class="apple-83">
+<div class="rectangle-48-84"></div>
+<div class="group-21-85">
+<img src="images/ellipse-3-86.svg" class="ellipse-3-86" alt="ellipse-3" />
+<img src="images/node-87.png" class="node-87" alt="apple-logo-black-isolated-on-transparent-background-free-vector-1" />
+</div>
+<p class="text-88"><span class="text-white">APPLE</span></p>
+<div class="group-40-89">
+<div class="rectangle-79-90"></div>
+<p class="text-91"><span class="text-white">hard</span></p>
+</div>
+<p class="text-92"><span class="text-white">79 interview experiences </span></p>
+<p class="text-93"><span class="text-white">Popular this week
+</span></p>
+<div class="apple-94">
+<div class="rectangle-48-95"></div>
+<div class="group-21-96">
+<img src="images/ellipse-3-97.svg" class="ellipse-3-97" alt="ellipse-3" />
+<img src="images/node-98.png" class="node-98" alt="apple-logo-black-isolated-on-transparent-background-free-vector-1" />
+</div>
+<p class="text-99"><span class="text-white">APPLE</span></p>
+<div class="group-40-100">
+<div class="rectangle-79-101"></div>
+<p class="text-102"><span class="text-white">hard</span></p>
+</div>
+<p class="text-103"><span class="text-white">79 interview experiences </span></p>
+<p class="text-104"><span class="text-white">Popular this week
+</span></p>
+</div>
+</div>
+<div class="tcs-105">
+<div class="rectangle-50-106"></div>
+<div class="group-20-107">
+<img src="images/ellipse-5-108.svg" class="ellipse-5-108" alt="ellipse-5" />
+<img src="images/node-109.png" class="node-109" alt="tcs-icon-logo-png-1-1" />
+</div>
+<p class="text-110"><span class="text-white">TCS</span></p>
+<div class="group-39-111">
+<div class="rectangle-79-112"></div>
+<p class="text-113"><span class="text-white">medium</span></p>
+</div>
+<p class="text-114"><span class="text-white">58 interview experiences </span></p>
+<p class="text-115"><span class="text-white">Popular this week
+</span></p>
+</div>
+<p class="text-116"><span class="text-white">GOOGLE</span></p>
+<div class="group-37-117">
+<div class="rectangle-79-118"></div>
+<p class="text-119"><span class="text-white">very hard</span></p>
+</div>
+<p class="text-120"><span class="text-white">57 interview experiences </span></p>
+<p class="text-121"><span class="text-white">Popular this week
+</span></p>
+<div class="group-22-122">
+<img src="images/ellipse-4-123.svg" class="ellipse-4-123" alt="ellipse-4" />
+<img src="images/node-124.png" class="node-124" alt="google-logo-icon-illustration-free-vector-1" />
+</div>
+<p class="text-125"><span class="text-white">dashboard</span></p>
+</div>
+
+</body>
+</html>

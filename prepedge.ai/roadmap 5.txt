@@ -1,0 +1,69 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exported Figma Design</title>
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="roadmap-5-1">
+<div class="tcs-roadmap-2">
+<div class="group-21-3">
+<div class="rectangle-48-4"></div>
+<p class="text-5"><span class="text-white">Overview  </span></p>
+</div>
+<div class="group-26-6">
+<div class="rectangle-49-7"></div>
+<p class="text-8"><span class="text-white">Eligibility &amp; Rounds </span></p>
+</div>
+<div class="group-25-9">
+<div class="rectangle-51-10"></div>
+<p class="text-11"><span class="text-white">Core Focus Area</span></p>
+</div>
+<div class="group-22-12">
+<div class="rectangle-50-13"></div>
+<p class="text-14"><span class="text-white">Preparation Timeline</span></p>
+</div>
+<div class="group-23-15">
+<div class="rectangle-52-16"></div>
+<p class="text-17"><span class="text-white">Resources &amp; Practice tips </span></p>
+</div>
+<div class="group-24-18">
+<div class="rectangle-53-19"></div>
+<p class="text-20"><span class="text-white">HR &amp; Behavioral prep</span></p>
+</div>
+<p class="text-21"><span class="text-black">TATA CONSULTANCY SERVICES</span></p>
+<img src="images/node-22.png" class="node-22" alt="tcs-icon-logo-png-1-2" />
+<p class="text-23"><span class="text-white">Tata Consultancy Services (TCS) hires through TCS NQT and campus placements. Focus on aptitude, logical reasoning, and basic programming</span></p>
+<p class="text-24"><span class="text-white">Rounds:
+Online Test (Aptitude + Reasoning + Coding + English)
+Technical Interview
+HR Interview</span></p>
+<p class="text-25"><span class="text-white">Week 1–2:
+ Aptitude &amp; Reasoning (Quant, Verbal, Logical)
+Week 3: 
+C/C++/Java basics, arrays, strings, loops
+Week 4:
+ DSA basics (sorting, searching), simple coding problems
+Week 5:
+ OOPs, DBMS, OS basics, simple SQL queries
+Week 6: 
+HR prep — behavioral questions, current affairs</span></p>
+<p class="text-26"><span class="text-white">Quantitative aptitude
+Basic programming logic
+OOPs, DBMS fundamentals</span></p>
+<p class="text-27"><span class="text-white">IndiaBix, PrepInsta, TCS NQT portal
+Practice daily 10 aptitude problems
+Focus on time management</span></p>
+<p class="text-28"><span class="text-white">Be ready to talk about your projects, strengths, and “Why TCS?”</span></p>
+</div>
+<div class="icons8-exit-2-29">
+<img src="images/vector-30.svg" class="vector-30" alt="vector" />
+</div>
+</div>
+
+</body>
+</html>

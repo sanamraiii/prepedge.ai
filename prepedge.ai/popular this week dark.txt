@@ -1,0 +1,105 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exported Figma Design</title>
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="home-page-1">
+<p class="text-2"><span class="text-black">WELCOME TO</span><span class="text-white"> </span>PREPEDGE</p>
+<div class="rectangle-35-3"></div>
+<div class="icons8-search-1-4">
+<img src="images/vector-5.svg" class="vector-5" alt="vector" />
+</div>
+<p class="text-6"><span class="text-rgb-87-84-84">search for companies</span></p>
+<div class="node-7">
+<img src="images/vector-8.svg" class="vector-8" alt="vector" />
+<img src="images/vector-9.svg" class="vector-9" alt="vector" />
+<img src="images/vector-10.svg" class="vector-10" alt="vector" />
+<img src="images/vector-11.svg" class="vector-11" alt="vector" />
+<img src="images/vector-12.svg" class="vector-12" alt="vector" />
+<img src="images/vector-13.svg" class="vector-13" alt="vector" />
+<img src="images/vector-14.svg" class="vector-14" alt="vector" />
+<img src="images/vector-15.svg" class="vector-15" alt="vector" />
+<img src="images/vector-16.svg" class="vector-16" alt="vector" />
+<img src="images/vector-17.svg" class="vector-17" alt="vector" />
+<img src="images/vector-18.svg" class="vector-18" alt="vector" />
+<img src="images/vector-19.svg" class="vector-19" alt="vector" />
+<img src="images/vector-20.svg" class="vector-20" alt="vector" />
+<img src="images/vector-21.svg" class="vector-21" alt="vector" />
+<img src="images/vector-22.svg" class="vector-22" alt="vector" />
+<img src="images/vector-23.svg" class="vector-23" alt="vector" />
+<img src="images/vector-24.svg" class="vector-24" alt="vector" />
+<img src="images/vector-25.svg" class="vector-25" alt="vector" />
+<img src="images/vector-26.svg" class="vector-26" alt="vector" />
+<img src="images/vector-27.svg" class="vector-27" alt="vector" />
+<img src="images/vector-28.svg" class="vector-28" alt="vector" />
+<img src="images/vector-29.svg" class="vector-29" alt="vector" />
+<img src="images/vector-30.svg" class="vector-30" alt="vector" />
+<img src="images/vector-31.svg" class="vector-31" alt="vector" />
+</div>
+<div class="group-41-32">
+<div class="rectangle-44-33"></div>
+</div>
+<img src="images/ellipse-6-34.svg" class="ellipse-6-34" alt="ellipse-6" />
+<div class="group-27-35">
+<img src="images/user-1-1-36.png" class="user-1-1-36" alt="user-1-1" />
+</div>
+<div class="icons8-exit-2-37">
+<img src="images/vector-38.svg" class="vector-38" alt="vector" />
+</div>
+<div class="microsoft-39">
+<div class="rectangle-36-40"></div>
+<div class="group-16-41">
+<img src="images/ellipse-1-42.svg" class="ellipse-1-42" alt="ellipse-1" />
+<img src="images/image-4-43.png" class="image-4-43" alt="image-4" />
+</div>
+<p class="text-44"><span class="text-white">Microsoft</span></p>
+<div class="group-36-45">
+<div class="rectangle-79-46"></div>
+<p class="text-47"><span class="text-white">hard</span></p>
+</div>
+<p class="text-48"><span class="text-white">45 interview experiences </span></p>
+<p class="text-49"><span class="text-white">Popular this week
+</span></p>
+</div>
+<div class="tcs-50">
+<div class="rectangle-50-51"></div>
+<div class="group-20-52">
+<img src="images/ellipse-5-53.svg" class="ellipse-5-53" alt="ellipse-5" />
+<img src="images/node-54.png" class="node-54" alt="tcs-icon-logo-png-1-1" />
+</div>
+<p class="text-55"><span class="text-white">TCS</span></p>
+<div class="group-39-56">
+<div class="rectangle-79-57"></div>
+<p class="text-58"><span class="text-white">medium</span></p>
+</div>
+<p class="text-59"><span class="text-white">58 interview experiences </span></p>
+<p class="text-60"><span class="text-white">Popular this week
+</span></p>
+</div>
+<div class="amazon-61">
+<div class="rectangle-47-62"></div>
+<div class="group-17-63">
+<img src="images/ellipse-2-64.svg" class="ellipse-2-64" alt="ellipse-2" />
+<img src="images/node-65.png" class="node-65" alt="01cada77a0a7d326d85b7969fe26a728-1" />
+</div>
+<p class="text-66"><span class="text-white">AMAZON</span></p>
+<div class="group-38-67">
+<div class="rectangle-79-68"></div>
+<p class="text-69"><span class="text-white">hard</span></p>
+</div>
+<p class="text-70"><span class="text-white">69 interview experiences </span></p>
+<p class="text-71"><span class="text-white">Popular this week
+</span></p>
+</div>
+<p class="text-72"><span class="text-white">dashboard</span></p>
+<p class="text-73"><span class="text-white">popular this week </span></p>
+</div>
+
+</body>
+</html>

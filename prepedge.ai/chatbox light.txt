@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exported Figma Design</title>
+  <link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="chatbox-area-1">
+<div class="rectangle-63-2"></div>
+<div class="rectangle-64-3"></div>
+<div class="rectangle-69-4"></div>
+<div class="rectangle-70-5"></div>
+<div class="rectangle-68-6"></div>
+<p class="text-7"><span class="text-rgb-21-43-89">START YOUR JOURNEY NOW !</span></p>
+<p class="text-8"><span class="text-black">                </span></p>
+<p class="text-9"><span class="text-rgb-21-43-89">now convert your voice into text</span></p>
+<img src="images/mic-1-10.png" class="mic-1-10" alt="mic-1" />
+<p class="text-11"><span class="text-black">FAQs
+</span></p>
+<p class="text-12"><span class="text-rgb-29-28-28">Commonly asked questions in the interview are provided here .Making your preparation reliable and easy </span></p>
+<p class="text-13"><span class="text-black">ASK AI</span></p>
+<div class="group-33-14">
+<div class="rectangle-71-15"></div>
+<p class="text-16"><span class="text-white">Attempt Quiz</span></p>
+</div>
+<p class="text-17"><span class="text-rgb-29-28-28">Ask AI any kind of questions required . AI will review your answer as well as provide you with quality answers</span></p>
+<p class="text-18"><span class="text-black">TECHNICAL Qs</span></p>
+<p class="text-19"><span class="text-black">A feature where you can now practice questions for your technical round interview with the help of AI </span></p>
+<p class="text-20"><span class="text-black">WELCOME TO YOUR PERSONAL PREP BUDDY </span></p>
+<div class="group-35-21">
+<img src="images/node-22.png" class="node-22" alt="chatgpt-image-nov-11-2025-06_36_32-pm-1-1" />
+<p class="text-23"><span class="text-black">STRUGGLING WITH YOUR PREP</span></p>
+<p class="text-24"><span class="text-black">Dont Worry ! we got you </span></p>
+<img src="images/final-1-1-25.png" class="final-1-1-25" alt="final-1-1" />
+<p class="text-26"><span class="text-black">repedge.ai</span></p>
+</div>
+<p class="text-27"><span class="text-black">PrepBox - Practice Zone
+Practice with mock interviews and get AI-powered feedback on your answers</span></p>
+<div class="icons8-exit-2-28">
+<img src="images/vector-29.svg" class="vector-29" alt="vector" />
+</div>
+</div>
+
+</body>
+</html>

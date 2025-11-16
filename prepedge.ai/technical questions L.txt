@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exported Figma Design</title>
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="home-page-1">
+<div class="icons8-exit-2-2">
+<img src="images/vector-3.svg" class="vector-3" alt="vector" />
+</div>
+<p class="text-4"><span class="text-black">TECHNICAL QUESTIONS </span></p>
+<p class="text-5"><span class="text-black">1.What is the difference between compiled and interpreted languages?
+2.Explain the concept of OOP (Object-Oriented Programming) and its principles (Encapsulation, Inheritance, Polymorphism, Abstraction).
+3.What is the difference between C, C++, and Java?
+4.What is the difference between == and equals() in Java?
+5.What is a constructor? Can a constructor be overloaded?
+6.What are static variables and methods?</span></p>
+<p class="text-6"><span class="text-black">Programming Fundamentals</span></p>
+<p class="text-7"><span class="text-black">Data Structures</span></p>
+<p class="text-8"><span class="text-black">1.Explain the difference between Array and Linked List.2
+2.What is a Stack? Give a real-life example.
+3.How does a Queue work (FIFO)?
+4.What is a Binary Tree? What’s the difference between a Binary Search Tree (BST) and a normal binary tree?
+5.Explain Hashing and its advantages.
+6.What is the difference between Recursion and Iteration?
+7.What is a Graph and how can it be represented (Adjacency Matrix/List)?</span></p>
+<p class="text-9"><span class="text-black">Algorithms</span></p>
+<p class="text-10"><span class="text-black">1.Explain Bubble Sort, Merge Sort, and Quick Sort with time complexity.
+2.What is Big O Notation?
+3.How would you find the second largest element in an array?
+4.How do you reverse a string or linked list?
+5.Explain how to detect a loop in a linked list.
+6.What is the difference between BFS and DFS?
+7.What’s the most efficient way to search for an element in a sorted array?</span></p>
+<p class="text-11"><span class="text-black"> Database (SQL)</span></p>
+<p class="text-12"><span class="text-black">1.What is the difference between Primary Key and Foreign Key?
+2.What is Normalization and why is it important?
+3.Explain JOINs (INNER, LEFT, RIGHT, FULL).
+4.What is a Stored Procedure?
+5.Write a query to get the highest salary from an employee table.
+6.Difference between DELETE, TRUNCATE, and DROP.</span></p>
+</div>
+
+</body>
+</html>

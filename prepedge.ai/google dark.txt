@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exported Figma Design</title>
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="google-1">
+<div class="google-roadmap-2">
+<div class="group-21-3">
+<div class="rectangle-48-4"></div>
+<p class="text-5"><span class="text-white">Overview  </span></p>
+</div>
+<div class="group-26-6">
+<div class="rectangle-49-7"></div>
+<p class="text-8"><span class="text-white">Eligibility &amp; Rounds </span></p>
+</div>
+<div class="group-25-9">
+<div class="rectangle-51-10"></div>
+<p class="text-11"><span class="text-white">Core Focus Area</span></p>
+</div>
+<div class="group-22-12">
+<div class="rectangle-50-13"></div>
+<p class="text-14"><span class="text-white">Preparation Timeline</span></p>
+</div>
+<div class="group-23-15">
+<div class="rectangle-52-16"></div>
+<p class="text-17"><span class="text-white">Resources &amp; Practice tips </span></p>
+</div>
+<div class="group-24-18">
+<div class="rectangle-53-19"></div>
+<p class="text-20"><span class="text-white">HR &amp; Behavioral prep</span></p>
+</div>
+<p class="text-21"><span class="text-white">GOOGLE</span></p>
+<p class="text-22"><span class="text-white">Google emphasizes problem-solving, data structures, algorithms, and system design.</span></p>
+<p class="text-23"><span class="text-white">Rounds:
+Online Coding Test
+2–3 Technical Interviews
+System Design (for experienced)
+HR/Behavioral (Googliness round)</span></p>
+<p class="text-24"><span class="text-white">Week 1–2:
+  Arrays, Strings, Recursion, Linked Lists
+Week 3–4:
+ Trees, Graphs, Dynamic Programming
+Week 5:
+ System Design basics, DBMS, OS, Networking
+Week 6:
+ Mock interviews + behavioral questions</span></p>
+<p class="text-25"><span class="text-white">DSA (LeetCode medium-hard)
+System Design (Low-Level + High-Level)
+Problem-solving approach</span></p>
+<p class="text-26"><span class="text-white">LeetCode, InterviewBit, Grokking the Coding Interview
+Practice 1–2 problems daily
+Focus on time/space complexity</span></p>
+<p class="text-27"><span class="text-white">Prepare for Googleyness: teamwork, innovation, humility</span></p>
+<img src="images/node-28.png" class="node-28" alt="google-logo-icon-illustration-free-vector-2" />
+</div>
+<div class="icons8-exit-1-29">
+<img src="images/vector-30.svg" class="vector-30" alt="vector" />
+</div>
+</div>
+
+</body>
+</html>

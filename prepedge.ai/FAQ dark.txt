@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exported Figma Design</title>
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="dark-faq-1">
+<div class="rectangle-72-2"></div>
+<p class="text-3"><span class="text-rgb-12-21-40">FAQs</span></p>
+<div class="icons8-exit-2-4">
+<img src="images/vector-5.svg" class="vector-5" alt="vector" />
+</div>
+<p class="text-6"><span class="text-white">1.Tell me about yourself.
+2.Why do you want to work for our company?
+3.What are your strengths and weaknesses?
+4.Where do you see yourself in 5 years?
+5.Describe a challenge you faced and how you overcame it.
+6.Why should we hire you?
+7.Tell me about your biggest achievement.
+8.What motivates you?
+9.How do you handle stress or tight deadlines?
+10.Are you open to relocation or working in shifts?</span></p>
+<p class="text-7"><span class="text-rgb-12-21-40">General HR/Personal Questions</span></p>
+<p class="text-8"><span class="text-white">Describe a time you worked in a team.
+How do you handle disagreements with teammates?
+Tell me about a time you showed leadership.
+What did you learn from your failures?
+How do you prioritize your tasks?</span></p>
+<p class="text-9"><span class="text-rgb-12-21-40"> Communication &amp; Behavioral</span></p>
+<p class="text-10"><span class="text-white">TIP:Be confident and honest — interviewers value clarity and authenticity more than perfect answers.</span></p>
+</div>
+
+</body>
+</html>

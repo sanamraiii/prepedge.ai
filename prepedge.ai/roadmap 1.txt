@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exported Figma Design</title>
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="roadmap1-1">
+<div class="microsoft-roadmap-2">
+<div class="group-21-3">
+<div class="rectangle-48-4"></div>
+<p class="text-5"><span class="text-white">Overview  </span></p>
+<p class="text-6"><span class="text-white">Microsoft values strong coding fundamentals, problem-solving, and clarity of design &amp; thought.</span></p>
+</div>
+<div class="group-26-7">
+<div class="rectangle-49-8"></div>
+<p class="text-9"><span class="text-white">Eligibility &amp; Rounds </span></p>
+</div>
+<div class="group-25-10">
+<div class="rectangle-51-11"></div>
+<p class="text-12"><span class="text-white">Core Focus Area</span></p>
+</div>
+<div class="group-22-13">
+<div class="rectangle-50-14"></div>
+<p class="text-15"><span class="text-white">Preparation Timeline</span></p>
+</div>
+<div class="group-23-16">
+<div class="rectangle-52-17"></div>
+<p class="text-18"><span class="text-white">Resources &amp; Practice tips </span></p>
+</div>
+<div class="group-24-19">
+<div class="rectangle-53-20"></div>
+<p class="text-21"><span class="text-white">HR &amp; Behavioral prep</span></p>
+</div>
+<p class="text-22"><span class="text-black">MICROSOFT</span></p>
+<p class="text-23"><span class="text-white">Rounds:
+Online Assessment (Coding + MCQs)
+Technical Interviews (2–3 rounds)
+HR/Managerial Interview</span></p>
+<p class="text-24"><span class="text-white">Week 1–2: 
+                        Arrays
+                         Linked Lists
+                         Strings
+                         Stacks/Queues
+Week 3–4:
+                      Trees
+                      Graphs
+                      DP
+                      Bit Manipulation
+Week 5:
+                      System Design                                                                   
+                      DBMS 
+                      OS
+                      OOPs
+Week 6:
+                   Mock interviews &amp;                  communication training</span></p>
+<p class="text-25"><span class="text-white">Data Structures &amp; Algorithms
+OOPs and System Design basics
+Clean, structured coding style</span></p>
+<p class="text-26"><span class="text-white">LeetCode, GeeksforGeeks, Microsoft Learn
+Focus on clarity and modular code
+Practice timed contests (Codeforces, LeetCode)</span></p>
+<p class="text-27"><span class="text-white">Questions about leadership, collaboration, learning from failure</span></p>
+<img src="images/image-5-28.png" class="image-5-28" alt="image-5" />
+</div>
+<div class="icons8-exit-2-29">
+<img src="images/vector-30.svg" class="vector-30" alt="vector" />
+</div>
+</div>
+
+</body>
+</html>

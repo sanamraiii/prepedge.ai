@@ -1,0 +1,80 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exported Figma Design</title>
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="home-pagelight-mode-1">
+<p class="text-2"><span class="text-black">WELCOME TO</span><span class="text-white"> </span>PREPEDGE</p>
+<div class="node-3">
+<img src="images/vector-4.svg" class="vector-4" alt="vector" />
+<img src="images/vector-5.svg" class="vector-5" alt="vector" />
+<img src="images/vector-6.svg" class="vector-6" alt="vector" />
+<img src="images/vector-7.svg" class="vector-7" alt="vector" />
+<img src="images/vector-8.svg" class="vector-8" alt="vector" />
+<img src="images/vector-9.svg" class="vector-9" alt="vector" />
+<img src="images/vector-10.svg" class="vector-10" alt="vector" />
+<img src="images/vector-11.svg" class="vector-11" alt="vector" />
+<img src="images/vector-12.svg" class="vector-12" alt="vector" />
+<img src="images/vector-13.svg" class="vector-13" alt="vector" />
+<img src="images/vector-14.svg" class="vector-14" alt="vector" />
+<img src="images/vector-15.svg" class="vector-15" alt="vector" />
+<img src="images/vector-16.svg" class="vector-16" alt="vector" />
+<img src="images/vector-17.svg" class="vector-17" alt="vector" />
+<img src="images/vector-18.svg" class="vector-18" alt="vector" />
+<img src="images/vector-19.svg" class="vector-19" alt="vector" />
+<img src="images/vector-20.svg" class="vector-20" alt="vector" />
+<img src="images/vector-21.svg" class="vector-21" alt="vector" />
+<img src="images/vector-22.svg" class="vector-22" alt="vector" />
+<img src="images/vector-23.svg" class="vector-23" alt="vector" />
+<img src="images/vector-24.svg" class="vector-24" alt="vector" />
+<img src="images/vector-25.svg" class="vector-25" alt="vector" />
+<img src="images/vector-26.svg" class="vector-26" alt="vector" />
+<img src="images/vector-27.svg" class="vector-27" alt="vector" />
+</div>
+<div class="group-27-28">
+<img src="images/user-1-1-29.png" class="user-1-1-29" alt="user-1-1" />
+</div>
+<div class="personal-30">
+<div class="rectangle-47-31"></div>
+<p class="text-32"><span class="text-black">MY PROFILE</span></p>
+<div class="rectangle-54-33"></div>
+<p class="text-34"><span class="text-black">Full Name </span></p>
+<div class="rectangle-55-35"></div>
+<div class="rectangle-56-36"></div>
+<div class="rectangle-57-37"></div>
+<div class="rectangle-58-38"></div>
+<div class="rectangle-59-39"></div>
+<div class="group-28-40">
+<div class="rectangle-59-41"></div>
+<p class="text-42"><span class="text-white">Update Your Profile</span></p>
+</div>
+<p class="text-43"><span class="text-rgb-200-200-200">johndoe</span></p>
+<p class="text-44"><span class="text-black">Branch</span></p>
+<p class="text-45"><span class="text-rgb-200-200-200">computer science </span></p>
+<p class="text-46"><span class="text-black">Year</span></p>
+<p class="text-47"><span class="text-black">Interest / Target Roles </span></p>
+<p class="text-48"><span class="text-black">Date Of Birth</span></p>
+<p class="text-49"><span class="text-rgb-200-200-200">3rd year</span></p>
+<p class="text-50"><span class="text-rgb-200-200-200">software developer</span></p>
+<p class="text-51"><span class="text-rgb-200-200-200">DD/MM/YYYY</span></p>
+</div>
+<div class="pi-52">
+<p class="text-53"><span class="text-black">Personal Information
+Update your profile information and preference</span></p>
+<p class="text-54"><span class="text-black">“Your Smartest Edge in Placement Prep.”</span></p>
+</div>
+<div class="icons8-exit-2-55">
+<img src="images/vector-56.svg" class="vector-56" alt="vector" />
+</div>
+<div class="rectangle-44-57"></div>
+<p class="text-58"><span class="text-white">dashboard</span></p>
+</div>
+
+</body>
+</html>

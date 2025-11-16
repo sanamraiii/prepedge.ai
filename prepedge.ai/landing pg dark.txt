@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exported Figma Design</title>
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="landing-page-1">
+<div class="rectangle-1-2"></div>
+<div class="rectangle-4-3"></div>
+<div class="rectangle-18-4"></div>
+<div class="rectangle-19-5"></div>
+<div class="rectangle-20-6"></div>
+<div class="group-5-7">
+<p class="text-8"><span class="text-white">Learn from seniors, get AI roadmaps, practice with mock interviews, and build stunning resumes. Everything you need to crack placements, all in one place.</span></p>
+<p class="text-9">PrepEdge.AI — where real experiences meet AI to shape your placement journey</p>
+<p class="text-10"><span class="text-white">“Your Smartest Edge in Placement Prep.”</span></p>
+</div>
+<div class="group-7-11">
+<p class="text-12"><span class="text-white">Everything You Need to Succeed</span></p>
+<p class="text-13"><span class="text-white">From preparation to placement, we've got you covered with powerful                       
+                                                                  features</span></p>
+<div class="company-insight-14">
+<img src="images/rectangle-5-15.png" class="rectangle-5-15" alt="rectangle-5" />
+<p class="text-16"><span class="text-white">Company Insight</span></p>
+<p class="text-17"><span class="text-white">Search any company and discover detailed interview experiences, tips, and preparation strategies from seniors.</span></p>
+</div>
+<div class="resume-builder-18">
+<div class="rectangle-7-19"></div>
+<img src="images/node-20.png" class="node-20" alt="personal-information-1" />
+<p class="text-21"><span class="text-white">AI Resume Builder</span></p>
+<p class="text-22"><span class="text-white">Create professional resumes with AI assistance. Choose templates and get instant PDF exports.</span></p>
+</div>
+<div class="dashboard-23">
+<div class="rectangle-10-24"></div>
+<p class="text-25"><span class="text-white">Track your progress, view recommendations, and manage your entire placement preparation in one place.</span></p>
+<img src="images/performance-1-26.png" class="performance-1-26" alt="performance-1" />
+<p class="text-27"><span class="text-white">Dashboard</span></p>
+</div>
+<div class="reviews-28">
+<div class="rectangle-11-29"></div>
+<p class="text-30"><span class="text-white">Senior Review </span></p>
+<img src="images/review-1-31.png" class="review-1-31" alt="review-1" />
+<p class="text-32"><span class="text-white">Learn from verified seniors who've been through the process and secured their dream roles.</span></p>
+</div>
+<div class="roadmap-33">
+<div class="rectangle-12-34"></div>
+<p class="text-35"><span class="text-white">Ai Generated Roadmap</span></p>
+<img src="images/milestone-1-36.png" class="milestone-1-36" alt="milestone-1" />
+<p class="text-37"><span class="text-white">Get personalized preparation plans tailored to your target role and skill level using advanced AI.</span></p>
+</div>
+<div class="prep-box-38">
+<div class="rectangle-13-39"></div>
+<p class="text-40"><span class="text-white">PrepBox Practice</span></p>
+<img src="images/consultation-1-41.png" class="consultation-1-41" alt="consultation-1" />
+<p class="text-42"><span class="text-white">Practice with mock questions, get AI feedback on your answers, and improve your interview skills.</span></p>
+</div>
+</div>
+<div class="group-9-43">
+<p class="text-44"><span class="text-white">AI-powered career roadmaps</span></p>
+<p class="text-45"><span class="text-white">An AI-powered roadmap can help users identify their strengths and weaknesses, suggest personalized learning paths, and track their progress efficiently. It analyzes user data to recommend the right skills, courses, and career steps, making growth faster and more focused.</span></p>
+</div>
+<div class="group-11-46">
+<img src="images/node-47.png" class="node-47" alt="chatgpt-image-oct-27-2025-09_23_39-pm-1" />
+<p class="text-48"><span class="text-white">AI POWERED PREP BOX</span></p>
+<p class="text-49"><span class="text-white">In today’s fast-paced world, students often struggle to bridge the gap between academic knowledge and real-world job expectations. Placements are evolving — and so should your preparation.
+AI helps students identify strengths, fix weak areas, and present their best selves to recruiters.
+With smarter insights and real-time feedback, you stay one step ahead — every single time.</span></p>
+</div>
+<div class="group-13-50">
+<p class="text-51"><span class="text-white">HOW TO USE PREPEDGE.AI?</span></p>
+<p class="text-52"><span class="text-white">Sign Up/Log In</span></p>
+<p class="text-53"><span class="text-white">→ Create your account to access personalized placement tools.</span></p>
+<p class="text-54"><span class="text-white">Search for a Company</span></p>
+<p class="text-55"><span class="text-white">→ Find interview reviews, tips, and experiences shared by seniors.</span></p>
+<p class="text-56"><span class="text-white">Get AI Review &amp; Roadmap</span></p>
+<p class="text-57"><span class="text-white">→ Let the AI analyze your prep and generate a clear improvement roadmap.</span></p>
+<p class="text-58"><span class="text-white">Practice with the AI Chat Box provided </span></p>
+<p class="text-59"><span class="text-white">→Try common interview questions or Speak your answers and and get instant feedback.</span></p>
+<p class="text-60"><span class="text-white">5.Build Your Resume</span></p>
+<p class="text-61"><span class="text-white">→ Use the AI Resume Generator to craft a polished, job-ready resume</span></p>
+</div>
+<div class="group-29-62">
+<div class="rectangle-61-63"></div>
+<p class="text-64"><span class="text-white">-Audio to Text Converter </span></p>
+<p class="text-65"><span class="text-rgb-234-233-230">Resume Generator 
+Roadmap Generator
+Review Generator </span></p>
+<div class="rectangle-62-66"></div>
+<p class="text-67"><span class="text-rgb-231-231-231">AI PREP BOX</span></p>
+<img src="images/chatbox-2-68.png" class="chatbox-2-68" alt="chatbox-2" />
+<p class="text-69"><span class="text-rgb-130-130-130">ask anything you need</span></p>
+<p class="text-70">SPECIAL FFEATURES</p>
+<p class="text-71"><span class="text-white">-3R’s</span></p>
+</div>
+<div class="group-30-72">
+<div class="rectangle-25-73"></div>
+<div class="rectangle-26-74"></div>
+<p class="text-75"><span class="text-black">Log In</span></p>
+<p class="text-76"><span class="text-black">Sign Up</span></p>
+</div>
+<img src="images/untitled-2-77.png" class="untitled-2-77" alt="untitled-2" />
+<div class="rectangle-32-78"></div>
+<p class="text-79"><span class="text-black">Get Started</span></p>
+<img src="images/node-80.png" class="node-80" alt="careerroadmappowerpointpresentationslides-181220054209-thumbnail-4-1" />
+<div class="group-43-81">
+<img src="images/final-1-2-82.png" class="final-1-2-82" alt="final-1-2" />
+<p class="text-83"><span class="text-black">repedge.ai</span></p>
+</div>
+<p class="text-84"><span class="text-white">repedge.ai</span></p>
+</div>
+
+</body>
+</html>

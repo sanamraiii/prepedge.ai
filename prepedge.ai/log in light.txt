@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exported Figma Design</title>
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="log-in-page-1">
+<div class="log-in-2">
+<div class="rectangle-23-3"></div>
+<div class="rectangle-26-4"></div>
+<div class="rectangle-28-5"></div>
+<p class="text-6"><span class="text-black">WELCOME TO PREPEDGE.AI</span></p>
+<div class="rectangle-24-7"></div>
+<div class="rectangle-27-8"></div>
+<p class="text-9"><span class="text-rgb-115-115-115">johndsouza@email.com</span></p>
+<div class="rectangle-25-10"></div>
+<p class="text-11"><span class="text-black">Enter your email</span></p>
+<p class="text-12"><span class="text-rgb-115-115-115">johndsouza@email.com</span></p>
+<p class="text-13"><span class="text-black">Enter your password</span></p>
+<p class="text-14"><span class="text-rgb-115-115-115">........................</span></p>
+<p class="text-15"><span class="text-black">Log In</span></p>
+<p class="text-16"><span class="text-black">Sign Up</span></p>
+<p class="text-17"><span class="text-black">Enter your Name</span></p>
+<p class="text-18"><span class="text-black">Enter your email</span></p>
+<p class="text-19"><span class="text-black">Create password</span></p>
+</div>
+<div class="rectangle-60-20"></div>
+<p class="text-21"><span class="text-white">Continue</span></p>
+<p class="text-22"><span class="text-white">→</span></p>
+<div class="icons8-exit-2-23">
+<img src="images/vector-24.svg" class="vector-24" alt="vector" />
+</div>
+</div>
+
+</body>
+</html>
